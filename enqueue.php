@@ -1,6 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
+ * Enqueue JavaScript and CSS Styles in CodeIgniter with a simple, lightweight library.
  * CodeIgniter_Root/application/libraries/enqueue.php
  * Version: 1.0
  */
