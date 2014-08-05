@@ -1,6 +1,6 @@
 CodeIgniter-enqueue
 ===================
-Adds enqueue capabilites to CodeIgniter with a simple library.
+Enqueue JavaScript and CSS Styles in CodeIgniter with a simple, lightweight library.
 
 ## How to use
 ### Setup
