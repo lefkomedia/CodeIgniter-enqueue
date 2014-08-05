@@ -2,7 +2,7 @@ CodeIgniter-enqueue
 ===================
 Enqueue JavaScript and CSS Styles in CodeIgniter with a simple, lightweight library.
 
-## How to use
+## How to Use
 ### Setup
 1. Add `enqueue.php` to `YOUR/APP/PATH/application/libraries/`
 2. Add `enqueue` to the array on Line 55: `$autoload['libraries'] = array();` in `YOUR/APP/PATH/config/autoload.php`
@@ -13,4 +13,4 @@ Add JS and CSS files to `YOUR/APP/PATH/public/js/` and `YOUR/APP/PATH/public/css
 
 In your controllers or models add:
 * `$this->enqueue->enqueue_js('JS_FILENAME');` to enqueue JavaScript
-* `$this->enqueue->enqueue_CSS('CSS_FILENAME');` to enqueue CSS
+* `$this->enqueue->enqueue_css('CSS_FILENAME');` to enqueue CSS
